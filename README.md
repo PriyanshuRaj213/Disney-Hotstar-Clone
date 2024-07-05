@@ -1,5 +1,5 @@
 # Disney-Hotstar-Clone
-In this project , I created a clone of the popular streaming service Disney+ using HTML, CSS, and JavaScript. Major steps included create the interface, populate it with content, and to add some basic functionality. This project helped me learn how to create a web application from scratch. So feel free to go through this clone of Disney+ and provide feedback !
+In this project , I created a clone of the popular streaming service Disney+ using HTML, CSS, and JavaScript. Major steps included creating the interface, populating it with content, and to add some basic functionality. This project helped me learn how to create a web application from scratch. So feel free to go through this clone of Disney+ and provide feedback !
 
 Used the following technologies:
 
