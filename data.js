@@ -1,7 +1,7 @@
 let movies = [
     {
         name: 'falcon and the winter soldier',
-        des: 'Following the events of 'Avengers: Endgame,'Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities -- and their patience.',
+        des: 'Following the events of Avengers: Endgame, Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities -- and their patience.',
         image: 'images/slider 2.PNG'
     },
     {
